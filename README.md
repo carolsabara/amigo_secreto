@@ -1,14 +1,16 @@
 <h1> 🎁 Amigo Secreto — Sorteador de Nomes </h1>
 
+
+<h2><a href="https://carolsabara.github.io/amigo_secreto/">🔗 Clique aqui para acessar a aplicação</a></h2>
+
 <p>Aplicação Web que sortea nomes para amigos secretos desenvolvida com Javascript durante os estudos do curso iniciante em porgramação do Oracle Next Educaction</p>
 
 <h2> O que o app faz?</h2>
     <ul> 
         <li>Adiciona nomes a uma lista (com validações simples). </li>
         <li>Evita entradas vazias e (opcional) nomes duplicados.</li>
-        <li>Realiza o **sorteio** entre os participantes.</li>
+        <li>Realiza o sorteio entre os participantes.</li>
         <li>Exibe o resultado de forma clara.</li>
-        <li>Limpa a lista para um novo sorteio.</li>
     </ul>
 
 <h2>Conceitos desenvolvidos neste projeto</h2>
