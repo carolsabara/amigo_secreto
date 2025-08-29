@@ -3,7 +3,7 @@
 
 <h2><a href="https://carolsabara.github.io/amigo_secreto/">🔗 Clique aqui para acessar a aplicação</a></h2>
 
-<p>Aplicação Web que sortea nomes para amigo secretosdesenvolvida com Javascript durante os estudos do curso iniciante em porgramação do Oracle Next Educaction</p>
+<p>Aplicação Web que sortea nomes para amigo secreto desenvolvida com Javascript durante os estudos do curso iniciante em porgramação do Oracle Next Educaction</p>
 
 <h2> O que o app faz?</h2>
     <ul> 
